@@ -1,7 +1,7 @@
 {
-	"name": "dark-modern-",
-	"displayName": "Dark Modern +",
-	"description": "A darker made theme based of of the Dark Modern VS Code theme",
+	"name": "dark-modern-darker",
+	"displayName": "Dark Modern Darker",
+	"description": "A darker theme based on the Dark Modern VS Code theme",
 	"publisher": "DarkPhoenix",
 	"version": "0.0.1",
 	"engines": {
